@@ -1,0 +1,16 @@
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\bin\Debug\Belajar-LINQ.exe.config
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\bin\Debug\Belajar-LINQ.exe
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\bin\Debug\Belajar-LINQ.pdb
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\obj\Debug\Belajar-LINQ.csproj.AssemblyReference.cache
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\obj\Debug\Belajar_LINQ.Form1.resources
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\obj\Debug\Belajar_LINQ.Properties.Resources.resources
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\obj\Debug\Belajar-LINQ.csproj.GenerateResource.cache
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\obj\Debug\Belajar-LINQ.csproj.CoreCompileInputs.cache
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\obj\Debug\Belajar-LINQ.exe
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\obj\Debug\Belajar-LINQ.pdb
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\bin\Debug\EntityFramework.dll
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\bin\Debug\EntityFramework.SqlServer.dll
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\bin\Debug\EntityFramework.xml
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\bin\Debug\EntityFramework.SqlServer.xml
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\obj\Debug\Belajar-LINQ.csproj.CopyComplete
+D:\lksn\lksn\Belajar-LINQ\Belajar-LINQ\obj\Debug\Belajar_LINQ.ProductForm.resources
